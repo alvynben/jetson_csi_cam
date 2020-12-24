@@ -1,4 +1,8 @@
-# Nvidia Jetson CSI camera launcher for ROS
+# Nvidia NX CSI camera launcher for ROS
+
+**IMPORTANT**
+
+This program was orginally designed by user:peter-moran. I've adapted his files for use on a Raspberry Pi V2.1 Camera, and put them here for convenience's sake, and for the benefit of my friends. If you have any thanks to give, give it to him at https://github.com/peter-moran/jetson_csi_cam.
 
 <p align="left"><a href="http://petermoran.org/csi-cameras-on-tx2/"><img src="https://img.shields.io/badge/CSI_Cameras_on_the_TX2_(The_Easy_Way)-Learn_more_at_my_blog-blue.svg?style=social"></a></p> 
 
